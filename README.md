@@ -24,9 +24,9 @@ Actualmente realizando prácticas profesionales en desarrollo de software y cons
 
 
 ## 📈 Estadísticas de GitHub  
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=jero-arango&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jero-arango&layout=compact)
 
 ---
 
