@@ -7,7 +7,7 @@ Actualmente realizando prácticas profesionales en desarrollo de software y cons
 
 ## Sobre mí  
 - ⭐ Apasionado por crear soluciones limpias, funcionales y escalables.  
-- 🧠 Formación técnica en Programación de Software.  
+- 🧠 Formación Tecnologia en Programación de Software.  
 - 📘 Nivel de inglés B2.  
 - 📚 Actualmente estudiando para ingresar a Ingeniería Informática.  
 - 🤝 Buscando oportunidades de desarrollo remoto (por horas o fijo).  
