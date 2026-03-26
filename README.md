@@ -1,35 +1,53 @@
-# 👋 Hola, soy Jerónimo Arango
+# Jeronimo Arango
 
-### 💻 Desarrollador Web | Estudiante de Ingeniería Informática  
-Actualmente realizando prácticas profesionales en desarrollo de software y construyendo proyectos modernos con tecnologías web.
-
----
-
-## Sobre mí  
-- ⭐ Apasionado por crear soluciones limpias, funcionales y escalables.  
-- 🧠 Formación Tecnologia en Programación de Software.  
-- 📘 Nivel de inglés B2.  
-- 📚 Actualmente estudiando para ingresar a Ingeniería Informática.  
-- 🤝 Buscando oportunidades de desarrollo remoto (por horas o fijo).  
+Building systems.  
+Focused on simplicity, discipline, and real-world impact.
 
 ---
 
-## 🛠️ Tecnologías que utilizo  
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Node.js, Express  
-**Base de datos:** MySQL  
-**Herramientas:** Git, GitHub, Postman, Figma  
+## About
+
+Software Development student focused on building scalable and efficient solutions.
+
+Currently preparing to pursue a degree in Computer Engineering while developing real-world projects and automation systems.
 
 ---
 
+## Focus
 
-## 📈 Estadísticas de GitHub  
-![Stats](https://github-readme-stats.vercel.app/api?username=jero-arango&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jero-arango&layout=compact)
+Automation (n8n)  
+Backend Development  
+System Design  
 
 ---
 
-## 📫 ¿Hablamos?
-**Email:** arangorendonjeronimo@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/jeronimo-arango-380833305/ 
+## Stack
+
+JavaScript  
+React  
+Node.js  
+Express  
+MySQL  
+Git  
+
+---
+
+## Selected Work
+
+Automation workflows for small businesses  
+Inventory system based on structured requirements  
+
+---
+
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jero-arango&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jero-arango&layout=compact&hide_border=true)
+
+---
+
+## Contact
+
+Email: arangorendonjeronimo@gmail.com  
+LinkedIn: https://www.linkedin.com/in/jeronimo-arango-380833305/
