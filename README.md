@@ -23,22 +23,25 @@ System Design
 
 ## Stack
 
+**Languages**  
 JavaScript  
 Python  
 
-HTML5  
-CSS3 
-
+**Frontend**  
+HTML  
+CSS  
 React  
+
+**Backend**  
 Node.js  
 Express  
 
+**Data**  
 MySQL  
-
 Power BI  
 
+**Tools**  
 Git  
-
 ---
 
 ## Selected Work
