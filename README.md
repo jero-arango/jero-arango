@@ -50,4 +50,5 @@ Inventory system based on structured requirements
 ## Contact
 
 Email: arango.jeronimo1011@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/jeronimo-arango-380833305/
