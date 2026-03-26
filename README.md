@@ -24,10 +24,19 @@ System Design
 ## Stack
 
 JavaScript  
+Python  
+
+HTML5  
+CSS3 
+
 React  
 Node.js  
 Express  
+
 MySQL  
+
+Power BI  
+
 Git  
 
 ---
