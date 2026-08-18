@@ -42,11 +42,11 @@ I am a Software Developer and Computer Engineering student based in Medellín, C
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jero-arango&show_icons=true&theme=radial&hide_border=true" alt="Jeronimo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jero-arango&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jero-arango&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Top%20Languages&line1=Python&line2=JavaScript&line3=SQL&line4=React&line5=Power%20BI&theme=radial" alt="Top Languages" />
 </p>
 
 ---
