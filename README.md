@@ -2,7 +2,7 @@
 
 ### Analyst & Software Developer | Computer Engineering Student
 
-I am a Software Developer and Computer Engineering student based in Medellín, Colombia. I specialize in building backend solutions, data automation, and web applications[cite: 1]. I enjoy optimizing processes, working with data pipelines, and creating clean, scalable code[cite: 1].
+I am a Software Developer and Computer Engineering student based in Medellín, Colombia. I specialize in building backend solutions, data automation, and web applications. I enjoy optimizing processes, working with data pipelines, and creating clean, scalable code.
 
 ---
 
@@ -32,10 +32,10 @@ I am a Software Developer and Computer Engineering student based in Medellín, C
 
 ### Key Highlights & Experience
 
-- ⚡ **Automation & Backend**: Experienced in writing Python and SQL scripts to automate daily database deliveries and backend processes[cite: 1].
-- 📊 **Data Visualization**: Built and optimized interactive Power BI dashboards to support strategic decision-making[cite: 1].
-- ⚙️ **Process Efficiency**: Focused on refactoring code to boost scalability, performance, and maintainability[cite: 1].
-- 🗣️ **Bilingual**: Native Spanish speaker with B2+ English proficiency[cite: 1].
+- ⚡ **Automation & Backend**: Experienced in writing Python and SQL scripts to automate daily database deliveries and backend processes.
+- 📊 **Data Visualization**: Built and optimized interactive Power BI dashboards to support strategic decision-making.
+- ⚙️ **Process Efficiency**: Focused on refactoring code to boost scalability, performance, and maintainability.
+- 🗣️ **Bilingual**: Native Spanish speaker with B2+ English proficiency.
 
 ---
 
